@@ -27,7 +27,7 @@ npm install @tavosud/sky-marquee
 
 > **CSS import required.** The stylesheet is bundled in `dist/`. If your bundler does not import CSS automatically, add:
 > ```js
-> import '@tavosud/sky-marquee/dist/Marquee.css';
+> import '@tavosud/sky-marquee/dist/marquee.css';
 > ```
 
 ## Quick Start
