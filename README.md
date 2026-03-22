@@ -4,6 +4,8 @@ Ultra-lightweight infinite marquee component for React with native CSS animation
 
 [![npm version](https://img.shields.io/npm/v/@tavosud/sky-marquee)](https://www.npmjs.com/package/@tavosud/sky-marquee)
 [![license](https://img.shields.io/npm/l/@tavosud/sky-marquee)](https://github.com/tavosud/sky-marquee/blob/main/LICENSE)
+[![demo](https://img.shields.io/badge/demo-CodeSandbox-black?logo=codesandbox)](https://codesandbox.io/p/sandbox/hxqdyc)
+[![ko-fi](https://img.shields.io/badge/support-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/tavosud)
 
 ## Features
 
