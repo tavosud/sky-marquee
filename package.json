@@ -29,6 +29,14 @@
   ],
   "author": "tavosud",
   "license": "MIT",
+  "homepage": "https://github.com/tavosud/sky-marquee#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tavosud/sky-marquee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tavosud/sky-marquee/issues"
+  },
   "peerDependencies": {
     "react": ">=18.0.0",
     "react-dom": ">=18.0.0"
