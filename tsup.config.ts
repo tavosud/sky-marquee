@@ -10,6 +10,9 @@ export default defineConfig({
   loader: {
     '.css': 'copy',
   },
+  esbuildOptions(options) {
+    options.assetNames = 'marquee';
+  },
   outExtension({ format }) {
     return {
       js: format === 'cjs' ? '.cjs' : '.js',
